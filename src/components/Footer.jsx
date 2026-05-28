@@ -12,10 +12,10 @@ const navLinks = [
 ]
 
 const socialLinks = [
-  { icon: FaGithub, href: 'https://github.com/naveenkumar-s', label: 'GitHub' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/naveenkumar-s', label: 'LinkedIn' },
+  { icon: FaGithub, href: 'https://github.com/Nknaveen03', label: 'GitHub' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/naveen-mern-dev', label: 'LinkedIn' },
   { icon: FaTwitter, href: 'https://twitter.com/naveenkumar_s', label: 'Twitter' },
-  { icon: HiMail, href: 'mailto:naveenkumar@example.com', label: 'Email' },
+  { icon: HiMail, href: 'mailto:naveenkumar.devoff@example.com', label: 'Email' },
 ]
 
 const Footer = () => {

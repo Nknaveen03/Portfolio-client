@@ -34,8 +34,8 @@ const projects = [
     description:
       'A responsive weather application that fetches real-time data from OpenWeather API, displaying forecasts, humidity, wind speed, and interactive charts.',
     tech: ['React', 'Axios', 'Chart.js', 'Tailwind CSS'],
-    github: 'https://github.com/naveenkumar-s/weather-app',
-    live: '#',
+    github: 'https://github.com/Nknaveen03/Weather-app.git',
+    live: 'https://weather-app-r8e9.vercel.app/',
     gradient: 'from-purple-500/20 to-violet-500/20',
     accent: '#A855F7',
     emoji: '🌤️',
@@ -199,7 +199,7 @@ const Projects = () => {
         <div className="text-center mt-12">
           <p className="text-gray-400 mb-4">Want to see more of my work?</p>
           <a
-            href="https://github.com/naveenkumar-s"
+            href="https://github.com/Nknaveen03"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 btn-outline"

@@ -4,23 +4,23 @@ import { HiCheckCircle } from 'react-icons/hi'
 const experiences = [
   {
     type: 'education',
-    title: 'B.E / B.Tech',
-    org: 'Engineering College, Tamil Nadu',
-    period: '2020 – 2024',
-    desc: 'Studied Computer Science / Information Technology with a focus on software development, data structures, algorithms, and web technologies.',
+    title: 'BCA (Bachelor of Computer Applications)',
+    org: 'Government arts and science college, Kanyakumari',
+    period: '2022 – 2025',
+    desc: 'Studied Computer Applications / Information Technology with a focus on software development, data structures, algorithms, and web technologies.',
   },
   {
     type: 'project',
     title: 'MERN Stack Projects',
-    org: 'Self-Learning & Practice',
-    period: '2023 – Present',
+    org: 'Error makers clever,Self-Learning & Practice',
+    period: 'Present',
     desc: 'Built multiple full-stack applications using MongoDB, Express.js, React.js, and Node.js. Deployed on platforms like Vercel and Render.',
   },
   {
     type: 'learning',
     title: 'Frontend Specialization',
     org: 'Online Courses & Bootcamps',
-    period: '2022 – Present',
+    period: 'Present',
     desc: 'Completed courses on React, JavaScript (ES6+), CSS animations, responsive design, and modern development tools like Vite and Tailwind CSS.',
   },
 ]
