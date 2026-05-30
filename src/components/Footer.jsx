@@ -15,7 +15,7 @@ const socialLinks = [
   { icon: FaGithub, href: 'https://github.com/Nknaveen03', label: 'GitHub' },
   { icon: FaLinkedin, href: 'https://www.linkedin.com/in/naveen-mern-dev', label: 'LinkedIn' },
   { icon: FaTwitter, href: 'https://twitter.com/naveenkumar_s', label: 'Twitter' },
-  { icon: HiMail, href: 'mailto:naveenkumar.devoff@example.com', label: 'Email' },
+  { icon: HiMail, href: 'mailto:naveennk6384@gmail.com', label: 'Email' },
 ]
 
 const Footer = () => {
@@ -95,8 +95,8 @@ const Footer = () => {
               Get In Touch
             </h4>
             <div className="space-y-3">
-              <p className="text-gray-500 text-sm">📧 naveenkumar@example.com</p>
-              <p className="text-gray-500 text-sm">📍 Tamil Nadu, India</p>
+              <p className="text-gray-500 text-sm">📧 naveennk6384@gmail.com</p>
+              <p className="text-gray-500 text-sm">📍 Dharmapuri, Tamil Nadu, India</p>
               <p className="text-gray-500 text-sm">💼 Open to full-time & freelance</p>
             </div>
             <div className="mt-6">

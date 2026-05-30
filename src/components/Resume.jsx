@@ -118,7 +118,7 @@ const Resume = () => {
                   Download PDF
                 </a>
                 <a
-                  href="src/components/assets/Nk dev CV.pdf"
+                  href="client/src/{components,assets}/Nk dev CV.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-outline flex items-center justify-center gap-2 text-sm"

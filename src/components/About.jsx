@@ -75,8 +75,8 @@ const About = () => {
               </h4>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 {[
-                  { icon: FaGraduationCap, label: 'Education', value: 'B.E / B.Tech' },
-                  { icon: FaMapMarkerAlt, label: 'Location', value: 'Tamil Nadu, India' },
+                  { icon: FaGraduationCap, label: 'Education', value: 'BCA' },
+                  { icon: FaMapMarkerAlt, label: 'Location', value: 'Dharmapuri,Tamil Nadu, India' },
                   { icon: FaLaptopCode, label: 'Role', value: 'MERN Developer' },
                   { icon: FaCode, label: 'Status', value: 'Open to Work' },
                 ].map(({ icon: Icon, label, value }) => (

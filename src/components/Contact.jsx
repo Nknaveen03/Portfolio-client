@@ -10,20 +10,20 @@ const contactInfo = [
   {
     icon: FaEnvelope,
     label: 'Email',
-    value: 'naveenkumar@example.com',
-    href: 'mailto:naveenkumar@example.com',
+    value: 'naveennk6384@gmail.com',
+    href: 'mailto:naveennk6384@gmail.com',
   },
   {
     icon: FaMapMarkerAlt,
     label: 'Location',
-    value: 'Tamil Nadu, India',
+    value: 'Dharmapuri, Tamil Nadu, India',
     href: null,
   },
 ]
 
 const socialLinks = [
-  { icon: FaGithub, href: 'https://github.com/naveenkumar-s', label: 'GitHub', color: '#ffffff' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/naveenkumar-s', label: 'LinkedIn', color: '#0A66C2' },
+  { icon: FaGithub, href: 'https://github.com/Nknaveen03', label: 'GitHub', color: '#ffffff' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/naveen-mern-dev/', label: 'LinkedIn', color: '#0A66C2' },
   { icon: FaTwitter, href: 'https://twitter.com/naveenkumar_s', label: 'Twitter', color: '#1DA1F2' },
 ]
 

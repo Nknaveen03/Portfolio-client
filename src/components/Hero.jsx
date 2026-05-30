@@ -90,7 +90,7 @@ const Hero = () => {
                 <HiArrowDown />
               </Link>
               <a
-                href="/resume.pdf"
+                href="client/src/{components,assets}/Nk dev CV.pdf"
                 download
                 className="btn-outline flex items-center justify-center gap-2"
               >
@@ -104,8 +104,8 @@ const Hero = () => {
               <span className="text-gray-500 text-sm">Find me on</span>
               <div className="flex gap-3">
                 {[
-                  { icon: FaGithub, href: 'https://github.com/naveenkumar-s', label: 'GitHub' },
-                  { icon: FaLinkedin, href: 'https://linkedin.com/in/naveenkumar-s', label: 'LinkedIn' },
+                  { icon: FaGithub, href: 'https://github.com/Nknaveen03', label: 'GitHub' },
+                  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/naveen-mern-dev/', label: 'LinkedIn' },
                   { icon: FaTwitter, href: 'https://twitter.com/naveenkumar_s', label: 'Twitter' },
                 ].map(({ icon: Icon, href, label }) => (
                   <a
